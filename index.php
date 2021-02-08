@@ -6,7 +6,7 @@
 
     $prod2 = new Tech("ASUS ROG Phone", 699, "", "https://images.eprice.it/nobrand/0/Lightbox/073/210660073/DAM210660073-0-dc64126b-a4d8-4e45-ae4b-0a6a112d1fbb.jpg", "Smartphones");
 
-    $prod3 = new Clothing("Suit", 76, "", "https://images.eprice.it/nobrand/0/hres/606/205065606/2325132185PRDID.0.jpg", "Men");
+    $prod3 = new Clothing("Suit", 76, "", "https://images.eprice.it/nobrand/0/hres/606/205065606/2325132185PRDID.0.jpg  ", "Men");
 
     $prod4 = new Clothing("Dress", 125, "", "https://images-na.ssl-images-amazon.com/images/I/61CJTmKH4pL._AC_UY606_.jpg", "Women");
 
