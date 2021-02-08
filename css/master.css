@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    margin: 30px 0;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.item {
+    min-width: 300px;
+    max-height: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 3px solid #000;
+    padding: 5px;
+    background: #f1eb4a;
+}
+
+.item > img {
+    max-height: 100px
+}
